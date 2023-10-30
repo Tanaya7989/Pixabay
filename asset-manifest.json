@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pixabay/static/css/main.313bb363.css",
+    "main.js": "/Pixabay/static/js/main.f8560651.js",
+    "static/js/787.5bef7ba4.chunk.js": "/Pixabay/static/js/787.5bef7ba4.chunk.js",
+    "index.html": "/Pixabay/index.html",
+    "main.313bb363.css.map": "/Pixabay/static/css/main.313bb363.css.map",
+    "main.f8560651.js.map": "/Pixabay/static/js/main.f8560651.js.map",
+    "787.5bef7ba4.chunk.js.map": "/Pixabay/static/js/787.5bef7ba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.313bb363.css",
+    "static/js/main.f8560651.js"
+  ]
+}
